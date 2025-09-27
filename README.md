@@ -1,10 +1,10 @@
 # 👋 Hello! I'm Santhosh
 
 ## 💼 About Me
+I’m a Computer Science Engineering student from Chennai, India, aspiring to become a full-stack software engineer.  
+Passionate about open-source, building scalable web applications, and leveraging AI to boost productivity.  
 
-I'm a Computer Science Engineering student based in Chennai, India, aspiring to become a full-stack software engineer. I’m passionate about open-source development, building scalable web applications, and leveraging AI to enhance productivity.
-
-Currently focused on mastering Data Structures and Algorithms, and actively contributing to real-world projects and open-source communities.
+Currently, I’m sharpening my skills in Data Structures & Algorithms and actively contributing to open-source communities and real-world projects.
 
 ---
 
@@ -15,53 +15,47 @@ Currently focused on mastering Data Structures and Algorithms, and actively cont
 
 **Tools & Platforms:**  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8DA0FC?logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
-💻 Comfortable with Linux CLI and agile development workflows.
+💻 Proficient with Linux CLI and agile workflows.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 📚 **BookNest**  
-  [GitHub](https://github.com/Sandy-07-coder/BookNest) | [Live Demo](https://book-nest-jade.vercel.app/)  
-  A responsive CRUD app for managing personal book collections. Built with React, Firebase, and TailwindCSS.
+- 📚 **BookNest** – A responsive CRUD app for managing book collections.  
+  [GitHub](https://github.com/Sandy-07-coder/BookNest) | [Live Demo](https://book-nest-jade.vercel.app/)
 
-- 🌐 **Business Landing Page**  
-  [GitHub](https://github.com/Sandy-07-coder/React-Landing-Page-TailwindCSS) | [Live Demo](https://react-landing-page-tailwind-css-jet.vercel.app/)  
-  A modern landing page with animations and responsive design using React, TailwindCSS, and Framer Motion.
+- 🌐 **Business Landing Page** – A modern animated landing page using React & TailwindCSS.  
+  [GitHub](https://github.com/Sandy-07-coder/React-Landing-Page-TailwindCSS) | [Live Demo](https://react-landing-page-tailwind-css-jet.vercel.app/)
 
-- ⛅ **Weather App**  
-  [GitHub](https://github.com/Sandy-07-coder/Weather-App) | [Live Demo](https://weather-app-phi-seven-26.vercel.app/)  
-  Displays real-time weather data using OpenWeather API with a clean React-based UI.
+- ⛅ **Weather App** – Real-time weather updates via OpenWeather API.  
+  [GitHub](https://github.com/Sandy-07-coder/Weather-App) | [Live Demo](https://weather-app-phi-seven-26.vercel.app/)
 
 ---
 
-## 🌍 Open-Source Contribution
+## 🌍 Open-Source Contributions
 
 - 🛠️ **Invenio-App-RDM (CERN)**  
   [GitHub](https://github.com/inveniosoftware/invenio-app-rdm) | [Issue](https://github.com/inveniosoftware/invenio-app-rdm/issues/3137)  
-  Improved UI localization by implementing region-based number formatting using i18next.
+  Enhanced UI localization by implementing region-based number formatting with i18next.
 
 ---
 
 ## 📊 LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Santhosh_Sandy_07?theme=dark&font=Baloo&ext=activity)  
-🔗 [LeetCode Profile](https://leetcode.com/u/Santhosh_Sandy_07/)
+🔗 [My LeetCode Profile](https://leetcode.com/u/Santhosh_Sandy_07/)
 
 ---
 
-## 🔗 Personal GitHub Profile
+## 🔗 GitHub Profile
 
-You can also explore my personal GitHub account for more projects and experiments:  
-👉 [Sandy-07-coder](https://github.com/Sandy-07-coder)
+👉 [Sandy-07-coder](https://github.com/Sandy-07-coder) – Explore more of my projects and experiments.
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let’s Connect
 
-I'm open to internships, collaborations, and exciting tech opportunities. Let’s build something impactful together!
+Open to internships, collaborations, and exciting opportunities.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/santhosh2673/)  
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:santhoshprogrammer07@gmail.com)
-
----
